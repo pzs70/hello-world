@@ -1,1 +1,3 @@
 # hello-world
+
+Most tanulom a Github használatát...
